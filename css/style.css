@@ -1,0 +1,118 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Muli', sans-serif;
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.baner{
+	background-image:linear-gradient(rgba(125, 104, 101, 0),rgba(14, 1, 9, 0.78)), url(../img/2.jpg);
+	background-repeat: no-repeat;
+	padding: 52px 0px;
+	background-size: cover;
+	width: 100%;
+	float: left;
+	background-position: center;
+
+}
+
+.contan{
+width: 45%;
+float: left;
+margin: 0px 28px; 
+
+}
+.contan h2{
+font-family: 'Muli', sans-serif;
+font-size: 38px;
+color: white;
+
+}
+
+.contan p{
+	padding: 20px 0px;
+    color: white;
+    font-size: 12px;
+}
+ ul{
+	
+}
+ ul li{
+	list-style: none;
+    color: white;
+    padding: 2px 0px;
+    font-size: 12px;
+}
+
+.far {
+	margin-right: 5px;
+}
+.btn{
+	padding: 11px 29px;
+    margin: 15px 6px;
+    border-radius: 200px;
+    background-color: #257ac3;
+    border: none;
+    color: white;
+    font-size: 12px;
+}
+
+.form-one{
+width: 45%;
+float: left;
+background-color: #257ac3;
+height: 500px;
+border-radius: 8px;
+margin: 28px;
+}
+
+.form-one h3{
+	color: white;
+    font-size: 32px;
+    margin: 48px 123px;
+    padding: -128px 40px;
+        margin-bottom: -27px;
+}
+.form-one p{
+	text-align: center;
+    padding: 35px;
+    color: white;
+    margin: -15px 23px;
+}
+.form-control {
+	width: 85%;
+    height: 25px;
+    padding: 4px;
+    margin: 6px 0px;
+    display: block;
+    margin: 11px 36px;
+}
+
+.btm{
+	width: 88%;
+    height: 38px;
+    display: block;
+    margin: 0px 33px;
+    font-size: 21px;
+    color: white;
+    background-color: #3641c1bf;
+    border: none;
+    border-radius: 5px;
+     box-shadow: 0px 5px #888888;
+}
+span{
+	color: red;
+}
+.btm a{
+	text-decoration: none;
+	color: white;
+}
+
+.btn a{
+	text-decoration: none;
+	color: white;
+}
